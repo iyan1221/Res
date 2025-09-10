@@ -1,0 +1,50 @@
+[
+    {
+        "custom": true,
+        "heading": 280.0,
+        "name": "Bengkel",
+        "y": 2741.0,
+        "z": 41.0,
+        "x": 1012.0
+    },
+    {
+        "x": -68.0,
+        "y": -1091.0,
+        "name": "Location test 1",
+        "heading": 50.0,
+        "z": 27.5,
+        "custom": true
+    },
+    {
+        "x": -67.0,
+        "y": -1048.0,
+        "name": "Location test 2",
+        "heading": 230.0,
+        "z": 28.0,
+        "custom": true
+    },
+    {
+        "x": -67.0,
+        "y": -1048.0,
+        "name": "Location test 3",
+        "heading": 230.0,
+        "z": 28.0,
+        "custom": true
+    },
+    {
+        "x": -67.0,
+        "y": -1048.0,
+        "name": "Location test 4",
+        "heading": 230.0,
+        "z": 28.0,
+        "custom": true
+    },
+    {
+        "x": -67.0,
+        "y": -1048.0,
+        "name": "Location test 5",
+        "heading": 230.0,
+        "z": 28.0,
+        "custom": true
+    }
+]

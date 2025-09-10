@@ -1,0 +1,244 @@
+================================================================
+======== Log Rotated - 9/11/2025, 02:09:10                      
+================================================================
+║             TXADMIN║ ================================================================
+║             TXADMIN║ ======== [10780] FXServer Starting - 9/11/2025, 02:09:11        
+║             TXADMIN║ ================================================================
+[           resources] Scanning resources.
+[           resources] Found 109 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v8.0.1 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[   script:mapmanager] Changing map from fivem-map-hipster to fivem-map-skater
+[           resources] Stopping resource fivem-map-hipster
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[           resources] Started resource map
+[           resources] Warning: Resource redm-map-one does not support the current game (gta5).
+[ citizen-server-impl] Couldn't start resource redm-map-one.
+[           resources] Stopping resource fivem-map-skater
+[           resources] Stopping resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[    c-scripting-core] Creating script environments for ox_lib
+[           resources] Started resource ox_lib
+[    c-scripting-core] Creating script environments for ir8-blips
+[           resources] Started resource ir8-blips
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for qbx_core
+[     script:qbx_core] [qbx_core] [INFO] Stopping hardcap...
+[           resources] Stopping resource hardcap
+[           resources] Started resource qbx_core
+[    c-scripting-core] Creating script environments for ox_target
+[           resources] Started resource ox_target
+[    c-scripting-core] Creating script environments for dolu_tool-main
+[           resources] Started resource dolu_tool-main
+[    c-scripting-core] Creating script environments for ox_doorlock
+[           resources] Started resource ox_doorlock
+[    c-scripting-core] Creating script environments for ox_inventory
+[           resources] Started resource ox_inventory
+[    c-scripting-core] Creating script environments for ox_fuel
+[           resources] Started resource ox_fuel
+[    c-scripting-core] Creating script environments for qbx_adminmenu
+[           resources] Started resource qbx_adminmenu
+[    c-scripting-core] Creating script environments for qbx_medical
+[           resources] Started resource qbx_medical
+[    c-scripting-core] Creating script environments for qbx_ambulancejob
+[           resources] Started resource qbx_ambulancejob
+[    c-scripting-core] Creating script environments for qbx_bankrobbery
+[           resources] Started resource qbx_bankrobbery
+[    c-scripting-core] Creating script environments for qbx_binoculars
+[           resources] Started resource qbx_binoculars
+[    c-scripting-core] Creating script environments for qbx_busjob
+[           resources] Started resource qbx_busjob
+[    c-scripting-core] Creating script environments for qbx_carwash
+[           resources] Started resource qbx_carwash
+[           resources] Started resource qbx_chat_theme
+[    c-scripting-core] Creating script environments for qbx_cityhall
+[           resources] Started resource qbx_cityhall
+[    c-scripting-core] Creating script environments for qbx_customs
+[           resources] Started resource qbx_customs
+[           resources] Started resource qbx_density
+[    c-scripting-core] Creating script environments for qbx_divegear
+[           resources] Started resource qbx_divegear
+[    c-scripting-core] Creating script environments for qbx_diving
+[           resources] Started resource qbx_diving
+[    c-scripting-core] Creating script environments for qbx_drugs
+[           resources] Started resource qbx_drugs
+[    c-scripting-core] Creating script environments for qbx_fireworks
+[           resources] Started resource qbx_fireworks
+[    c-scripting-core] Creating script environments for qbx_garages
+[           resources] Started resource qbx_garages
+[    c-scripting-core] Creating script environments for qbx_garbagejob
+[           resources] Started resource qbx_garbagejob
+[    c-scripting-core] Creating script environments for qbx_houserobbery
+[           resources] Started resource qbx_houserobbery
+[    c-scripting-core] Creating script environments for qbx_hud
+[           resources] Started resource qbx_hud
+[           resources] Started resource MugShotBase64
+[    c-scripting-core] Creating script environments for qbx_idcard
+[           resources] Started resource qbx_idcard
+[           resources] Started resource qbx_input
+[    c-scripting-core] Creating script environments for qbx_jewelery
+[           resources] Started resource qbx_jewelery
+[    c-scripting-core] Creating script environments for qbx_lapraces
+[           resources] Started resource qbx_lapraces
+[    c-scripting-core] Creating script environments for qbx_management
+[           resources] Started resource qbx_management
+[    c-scripting-core] Creating script environments for qbx_mechanicjob
+[           resources] Started resource qbx_mechanicjob
+[    c-scripting-core] Creating script environments for qbx_newsjob
+[           resources] Started resource qbx_newsjob
+[    c-scripting-core] Creating script environments for qbx_pawnshop
+[           resources] Started resource qbx_pawnshop
+[    c-scripting-core] Creating script environments for qbx_police
+[           resources] Started resource qbx_police
+[    c-scripting-core] Creating script environments for qbx_properties
+[           resources] Started resource qbx_properties
+[    c-scripting-core] Creating script environments for qbx_radialmenu
+[           resources] Started resource qbx_radialmenu
+[    c-scripting-core] Creating script environments for qbx_recyclejob
+[           resources] Started resource qbx_recyclejob
+[    c-scripting-core] Creating script environments for qbx_scoreboard
+[           resources] Started resource qbx_scoreboard
+[    c-scripting-core] Creating script environments for qbx_scrapyard
+[           resources] Started resource qbx_scrapyard
+[    c-scripting-core] Creating script environments for qbx_seatbelt
+[           resources] Started resource qbx_seatbelt
+[    c-scripting-core] Creating script environments for qbx_smallresources
+[           resources] Started resource qbx_smallresources
+[    c-scripting-core] Creating script environments for qbx_spawn
+[           resources] Started resource qbx_spawn
+[    c-scripting-core] Creating script environments for qbx_storerobbery
+[           resources] Started resource qbx_storerobbery
+[    c-scripting-core] Creating script environments for qbx_streetraces
+[           resources] Started resource qbx_streetraces
+[    c-scripting-core] Creating script environments for qbx_taxijob
+[           resources] Started resource qbx_taxijob
+[    c-scripting-core] Creating script environments for qbx_towjob
+[           resources] Started resource qbx_towjob
+[    c-scripting-core] Creating script environments for qbx_truckerjob
+[           resources] Started resource qbx_truckerjob
+[    c-scripting-core] Creating script environments for qbx_truckrobbery
+[           resources] Started resource qbx_truckrobbery
+[    c-scripting-core] Creating script environments for qbx_vehiclekeys
+[           resources] Started resource qbx_vehiclekeys
+[    c-scripting-core] Creating script environments for qbx_vehicles
+[           resources] Started resource qbx_vehicles
+[    c-scripting-core] Creating script environments for qbx_vehiclesales
+[           resources] Started resource qbx_vehiclesales
+[    c-scripting-core] Creating script environments for qbx_vehicleshop
+[           resources] Started resource qbx_vehicleshop
+[    c-scripting-core] Creating script environments for qbx_vineyard
+[           resources] Started resource qbx_vineyard
+[    c-scripting-core] Creating script environments for qbx_weed
+[           resources] Started resource qbx_weed
+[    c-resources-core] Could not find dependency qb-input for resource rd_blips.
+[ citizen-server-impl] Couldn't start resource rd_blips.
+[    c-resources-core] Could not find dependency qb-input for resource rd_blips.
+[ citizen-server-impl] Couldn't start resource rd_blips.
+[    c-scripting-core] Creating script environments for Renewed-Banking
+[           resources] Started resource Renewed-Banking
+[    c-scripting-core] Creating script environments for Renewed-Weathersync
+[           resources] Started resource Renewed-Weathersync
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for illenium-appearance
+[           resources] Started resource illenium-appearance
+[    c-scripting-core] Creating script environments for informational
+[           resources] Started resource informational
+[    c-scripting-core] Creating script environments for loadscreen
+[           resources] Started resource loadscreen
+[    c-scripting-core] Creating script environments for mana_audio
+[           resources] Started resource mana_audio
+[           resources] Started resource mhacking
+[           resources] Started resource safecracker
+[    c-scripting-core] Creating script environments for screencapture
+[           resources] Started resource screencapture
+[    c-scripting-core] Creating script environments for screenshot-basic
+[           resources] Started resource screenshot-basic
+[    c-scripting-core] Creating script environments for scully_emotemenu
+[           resources] Started resource scully_emotemenu
+[    c-scripting-core] Creating script environments for ultra-voltlab
+[           resources] Started resource ultra-voltlab
+[    c-scripting-core] Creating script environments for vehiclehandler
+[           resources] Started resource vehiclehandler
+[    c-scripting-core] Creating script environments for xt-prison
+[           resources] Started resource xt-prison
+[    c-scripting-core] Creating script environments for pma-voice
+[           resources] Started resource pma-voice
+[    c-scripting-core] Creating script environments for mm_radio
+[           resources] Started resource mm_radio
+[           resources] Started resource PandaScriptZ-BzZzMarkers-main
+[resources:bengkel_ss] Asset bengkel_ss/mech_argonz_replace_logo_here_fix.ytd uses 20.2 MiB of physical memory.
+[           resources] Started resource bengkel_ss (1 warning)
+[   resources:pillbox] Warning: could not find file `v_int_40.ytyp` (defined in fxmanifest.lua:6)
+[           resources] Started resource pillbox (1 warning)
+[    c-scripting-core] Creating script environments for npwd_qbx_garages
+[           resources] Started resource npwd_qbx_garages
+[    c-scripting-core] Creating script environments for npwd_qbx_mail
+[           resources] Started resource npwd_qbx_mail
+[    c-scripting-core] Creating script environments for qbx_npwd
+[           resources] Started resource qbx_npwd
+[    c-scripting-core] Creating script environments for npwd
+[           resources] Started resource npwd
+[ citizen-server-main] Warning: The players.json endpoint has been modified to no longer return the player identifiers without authentication.
+[ citizen-server-main] To learn more about this change read our announcement at https://aka.cfx.re/players-json-privacy
+[script:dolu_tool-mai] Unable to determine current resource version for 'dolu_tool' 
+[ citizen-server-impl] server thread hitch warning: timer interval of 2570 milliseconds
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[    script:xt-prison] [xt-prison] [INFO] Initializing Table: xt_prison_items
+[    script:xt-prison] [xt-prison] [INFO] Initializing Table: xt_prison
+[     script:qbx_core] [qbx_core] [INFO] Removed invalid groups from player_groups table
+[       script:ox_lib] An update is available for ox_doorlock (current version: 1.19.3)
+[       script:ox_lib] https://github.com/CommunityOx/ox_doorlock/releases/tag/v1.21.0
+[       script:ox_lib] An update is available for vehiclehandler (current version: 1.3.5)
+[       script:ox_lib] https://github.com/QuantumMalice/vehiclehandler/releases/tag/v1.4.0
+[       script:ox_lib] An update is available for qbx_management (current version: 1.3.3)
+[       script:ox_lib] https://github.com/Qbox-project/qbx_management/releases/tag/v1.4.0
+[     script:qbx_core] 
+[     script:qbx_core] Welcome to Qbox!
+[     script:qbx_core] To learn more, please check out the documentation at https://docs.qbox.re/.
+[     script:qbx_core] To turn this message off, set the qbx:acknowledge convar to true in your server.cfg file.
+[     script:qbx_core] 
+[ script:ox_inventory] [ox_inventory] [INFO] Inventory has loaded 301 items
+[       script:ox_lib] An update is available for ox_inventory (current version: 2.44.4)
+[       script:ox_lib] https://github.com/CommunityOx/ox_inventory/releases/tag/v2.44.6
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://mel-iyan-mlabzq.users.cfx.re/
+[       script:ox_lib] An update is available for ox_lib (current version: 3.30.10)
+[       script:ox_lib] https://github.com/CommunityOx/ox_lib/releases/tag/v3.31.4
+[script:scully_emotem] [scully_emotemenu] You are currently running the latest version.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection reset by peer <- System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer. <- System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.

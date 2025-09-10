@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "NAFST"
+  },
+  "server": {
+    "dataPath": "C:/Users/YANTO/Downloads/Compressed/qbox/cfx-server-data-master/"
+  }
+}

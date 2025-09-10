@@ -1,0 +1,72 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>cs4_13_grass_1.ymap</Item>
+    <Item>cs4_occl_01.ymap</Item>
+    <Item>cs6_occl_02.ymap</Item>
+    <Item>lr_cs4_13.ymap</Item>
+    <Item>lr_cs4_13_critical_5.ymap</Item>
+    <Item>lr_cs4_13_long_1.ymap</Item>
+    <Item>lr_cs4_13_strm_5.ymap</Item>
+    <Item>lr_cs6_03.ymap</Item>
+    <Item>lr_cs6_03_critical_0.ymap</Item>
+    <Item>lr_cs6_03_long_0.ymap</Item>
+    <Item>lr_cs6_03_strm_1.ymap</Item>
+    <Item>mech_argonz_exterioronly2.ymap</Item>
+    <Item>mech_argonz_interior_placement.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>argonz_lamp_collection.ytyp</Item>
+    <Item>mech_argonz_exterior_register.ytyp</Item>
+    <Item>mech_argonz_interior_props_register.ytyp</Item>
+    <Item>mech_argonz_interior_settings.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>cs4_13_4.ybn</Item>
+    <Item>hi@cs4_13_0.ybn</Item>
+    <Item>hi@cs4_13_4.ybn</Item>
+    <Item>hi@lr_cs6_03_0.ybn</Item>
+    <Item>lr_cs6_03_0.ybn</Item>
+    <Item>mech_argonz_interior_shell_col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames>
+    <Item>navmesh[138][174].ynv</Item>
+  </YnvFilenames>
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>argonz_ceiling_lamp_1.ydr</Item>
+    <Item>argonz_lampu_putih.ydr</Item>
+    <Item>cs4_13_bdh_06.ydr</Item>
+    <Item>cs4_13_bdh_06_d.ydr</Item>
+    <Item>mech_argonz_exterior_base.ydr</Item>
+    <Item>mech_argonz_exterior_base_ovl.ydr</Item>
+    <Item>mech_argonz_interior_details_limbo.ydr</Item>
+    <Item>mech_argonz_interior_frame_garage.ydr</Item>
+    <Item>mech_argonz_interior_frame_pintu.ydr</Item>
+    <Item>mech_argonz_interior_garage.ydr</Item>
+    <Item>mech_argonz_interior_hall_1_ref.ydr</Item>
+    <Item>mech_argonz_interior_hall_1_stair.ydr</Item>
+    <Item>mech_argonz_interior_hall_2_dtl.ydr</Item>
+    <Item>mech_argonz_interior_modif_details.ydr</Item>
+    <Item>mech_argonz_interior_modif_partition.ydr</Item>
+    <Item>mech_argonz_interior_modif_ref.ydr</Item>
+    <Item>mech_argonz_interior_modif_stair_railing.ydr</Item>
+    <Item>mech_argonz_interior_receptionist_ref.ydr</Item>
+    <Item>mech_argonz_interior_receptionist_table.ydr</Item>
+    <Item>mech_argonz_interior_shell.ydr</Item>
+    <Item>mech_argonz_interior_spray_door.ydr</Item>
+    <Item>mech_argonz_interior_toilet_details.ydr</Item>
+    <Item>mech_argonz_replace_logo_here.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames>
+    <Item>prop_wall_light_05a.yft</Item>
+  </YftFilenames>
+  <YtdFilenames>
+    <Item>mech_argonz_replace_logo_here_fix.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>

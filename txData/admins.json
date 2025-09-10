@@ -1,0 +1,33 @@
+[
+  {
+    "$schema": 1,
+    "name": "Mel_Iyan",
+    "master": true,
+    "password_hash": "$2a$11$BHHoWxcTprg8j8PF7gokWu7EWHT.ASgMUpPePMR2VpUDMvQyQVtTy",
+    "providers": {
+      "citizenfx": {
+        "id": "Mel_Iyan",
+        "identifier": "fivem:15742978",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "brayanyamamoto",
+    "master": false,
+    "password_hash": "$2a$11$KdVoLFOy/iYKMw9UXeEBauoc8DWGUJ5.XhA3f9amekFF0FtEq12nO",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "538054055738736640",
+        "identifier": "discord:538054055738736640",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
